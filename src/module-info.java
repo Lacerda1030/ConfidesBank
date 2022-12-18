@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author evertton
+ *
+ */
+module ConfidesBank {
+}
